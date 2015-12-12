@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mwaldmeier.draganddrop2.Main2Activity"/>
+      <point      
+        x = "1708"      
+        y = "104"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.mwaldmeier.draganddrop2.MainActivity"/>
+      <point      
+        x = "416"      
+        y = "172"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
